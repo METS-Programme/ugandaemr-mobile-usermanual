@@ -6,5 +6,5 @@
 * [Find Patients](find-patients.md)
 * [Work Summary](assess-patients.md)
 * [Drug Dispensing](drug-administration.md)
-* [Uninstalling UgandaEMR Mobile](uninstalling-ugandaemr-mobile.md) 
+* [Uninstalling UgandaEMR Mobile](uninstalling-ugandaemr-mobile.md)
 
